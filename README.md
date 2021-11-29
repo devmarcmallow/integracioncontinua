@@ -1,6 +1,6 @@
 # Integracion Continua
 
-##Colaboradores:
+## Colaboradores:
 
 - Rubén Darío Rojas Barrera
 
